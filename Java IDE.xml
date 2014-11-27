@@ -1,0 +1,6 @@
+<list>
+  <plugin id="org.consulo.java" />
+  <plugin id="org.intellij.groovy" />
+  <plugin id="Git4Idea" />
+  <plugin id="org.jetbrains.plugins.github" />
+</list>

@@ -1,0 +1,16 @@
+<list>
+  <group name="Languages and Frameworks">
+    <plugin id="org.consulo.java">
+      <plugin id="org.intellij.groovy" />
+    </plugin>
+    <plugin id="org.mustbe.consulo.csharp">
+      <plugin id="org.mustbe.consulo.microsoft.dotnet" os="win"/>
+      <plugin id="org.mustbe.consulo.dotnet.mono" />
+    </plugin>
+  </group>
+  <group name="Version Control Systems">
+    <plugin id="Git4Idea">
+      <plugin id="org.jetbrains.plugins.github" />
+    </plugin>
+  </group>
+</list>
