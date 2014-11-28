@@ -16,4 +16,5 @@
   <plugin id="org.jetbrains.plugins.gradle" />
   <plugin id="com.intellij.properties" />
   <plugin id="org.mustbe.consulo.tomcat" />
+  <plugin id="com.intellij.images" />
 </list>
