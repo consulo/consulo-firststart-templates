@@ -12,9 +12,7 @@
   <plugin id="com.intellij.junit" />
   <plugin id="TestNG-J" />
   <plugin id="com.intellij.velocity" />
-  <plugin id="org.mustbe.consulo.javaee" />
   <plugin id="org.jetbrains.plugins.gradle" />
   <plugin id="com.intellij.properties" />
-  <plugin id="org.mustbe.consulo.tomcat" />
   <plugin id="com.intellij.images" />
 </list>
