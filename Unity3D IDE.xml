@@ -10,6 +10,7 @@
 
   <plugin id="org.mustbe.consulo.csharp" />
   <plugin id="org.mustbe.consulo.dotnet.core" />
+  <plugin id="org.mustbe.consulo.dotnet.mono" />
   <plugin id="org.mustbe.consulo.unity3d" />
   <plugin id="NUnit" />
   <plugin id="org.mustbe.consulo.nuget" />
