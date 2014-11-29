@@ -1,0 +1,16 @@
+<list>
+  <plugin id="Git4Idea" />
+  <plugin id="org.jetbrains.plugins.github" />
+  <plugin id="com.intellij.xml" />
+  <plugin id="com.intellij.regexp" />
+  <plugin id="com.intellij.tasks" />
+  <plugin id="com.intellij.spellchecker" />
+  <plugin id="com.intellij.properties" />
+  <plugin id="com.intellij.images" />
+
+  <plugin id="org.mustbe.consulo.csharp" />
+  <plugin id="org.mustbe.consulo.dotnet.core" />
+  <plugin id="org.mustbe.consulo.unity3d" />
+  <plugin id="NUnit" />
+  <plugin id="org.mustbe.consulo.nuget" />
+</list>
