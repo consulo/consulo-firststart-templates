@@ -12,7 +12,6 @@
   <plugin id="org.mustbe.consulo.dotnet.core" />
   <plugin id="org.mustbe.consulo.dotnet.mono" />
   <plugin id="org.mustbe.consulo.microsoft.dotnet" />
-  <plugin id="NUnit" />
+  <plugin id="org.mustbe.consulo.nunit" />
   <plugin id="org.mustbe.consulo.nuget" />
-  <plugin id="org.mustbe.consulo.opencover" />
 </list>
