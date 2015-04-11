@@ -13,4 +13,5 @@
   <plugin id="org.mustbe.consulo.unity3d" />
   <plugin id="org.mustbe.consulo.nunit" />
   <plugin id="org.mustbe.consulo.nuget" />
+  <plugin id="org.mustbe.consulo.javascript" />
 </list>
