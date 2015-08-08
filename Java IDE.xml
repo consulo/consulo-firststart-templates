@@ -4,6 +4,7 @@
   <plugin id="Git4Idea" />
   <plugin id="org.jetbrains.plugins.github" />
   <plugin id="org.jetbrains.idea.maven" />
+  <plugin id="org.mustbe.consulo.ant" />
   <plugin id="com.intellij.xml" />
   <plugin id="com.intellij.regexp" />
   <plugin id="org.intellij.intelliLang" />
