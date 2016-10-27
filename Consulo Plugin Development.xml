@@ -1,7 +1,7 @@
 <list>
-	<plugin id="org.consulo.java"/>
+	<plugin id="consulo.java"/>
 	<plugin id="org.intellij.groovy"/>
-	<plugin id="Git4Idea"/>
+	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
 	<plugin id="com.intellij.xml"/>
 	<plugin id="com.intellij.regexp"/>
@@ -14,8 +14,8 @@
 	<plugin id="com.intellij.images"/>
 
 	<plugin id="com.intellij.uiDesigner"/>
-	<plugin id="JFlex Support"/>
-	<plugin id="org.consulo.lombok"/>
+	<plugin id="consulo.jflex"/>
+	<plugin id="consulo.lombok"/>
 	<plugin id="org.jetbrains.idea.grammar"/>
-	<plugin id="org.consulo.devkit"/>
+	<plugin id="consulo.devkit"/>
 </list>

@@ -1,5 +1,5 @@
 <list>
-  <plugin id="Git4Idea" />
+  <plugin id="com.intellij.git" />
   <plugin id="org.jetbrains.plugins.github" />
   <plugin id="com.intellij.xml" />
   <plugin id="com.intellij.regexp" />
@@ -8,11 +8,11 @@
   <plugin id="com.intellij.properties" />
   <plugin id="com.intellij.images" />
 
-  <plugin id="org.mustbe.consulo.csharp" />
-  <plugin id="org.mustbe.consulo.dotnet.core" />
-  <plugin id="org.mustbe.consulo.dotnet.mono" />
-  <plugin id="org.mustbe.consulo.unity3d" />
-  <plugin id="org.mustbe.consulo.nunit" />
-  <plugin id="org.mustbe.consulo.nuget" />
-  <plugin id="org.mustbe.consulo.javascript" />
+  <plugin id="consulo.csharp" />
+  <plugin id="consulo.dotnet" />
+  <plugin id="consulo.dotnet.mono" />
+  <plugin id="consulo.unity3d" />
+  <plugin id="consulo.nunit" />
+  <plugin id="consulo.nuget" />
+  <plugin id="consulo.javascript" />
 </list>
