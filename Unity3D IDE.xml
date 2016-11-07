@@ -15,4 +15,5 @@
   <plugin id="consulo.nunit" />
   <plugin id="consulo.nuget" />
   <plugin id="consulo.javascript" />
+  <plugin id="org.jetbrains.plugins.yaml" />
 </list>
