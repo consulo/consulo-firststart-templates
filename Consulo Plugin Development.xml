@@ -15,7 +15,7 @@
 
 	<plugin id="com.intellij.uiDesigner"/>
 	<plugin id="consulo.jflex"/>
-	<plugin id="consulo.lombok"/>
+	<plugin id="com.intellij.gwt"/>
 	<plugin id="org.jetbrains.idea.grammar"/>
 	<plugin id="consulo.devkit"/>
 </list>
