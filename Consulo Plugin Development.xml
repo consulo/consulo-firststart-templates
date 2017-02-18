@@ -1,5 +1,6 @@
 <list>
 	<plugin id="consulo.java"/>
+	<plugin id="consulo.javaee"/>
 	<plugin id="org.intellij.groovy"/>
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
