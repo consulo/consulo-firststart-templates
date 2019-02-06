@@ -16,4 +16,7 @@
   <plugin id="consulo.nunit" />
   <plugin id="consulo.nuget" />
   <plugin id="consulo.opencover" />
+  
+  <plugin id="consulo.library.batik" />
+  <plugin id="consulo.library.flexmark" />
 </list>
