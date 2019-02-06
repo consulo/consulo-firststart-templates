@@ -16,4 +16,8 @@
   <plugin id="consulo.nuget" />
   <plugin id="consulo.javascript" />
   <plugin id="org.jetbrains.plugins.yaml" />
+
+  <plugin id="consulo.library.batik" />
+  <plugin id="consulo.library.flexmark" />
 </list>
+
