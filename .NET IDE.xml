@@ -1,4 +1,4 @@
-<list>
+<list description="Included C# plugin">
   <plugin id="com.intellij.git" />
   <plugin id="org.jetbrains.plugins.github" />
   <plugin id="com.intellij.xml" />
