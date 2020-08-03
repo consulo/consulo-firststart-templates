@@ -1,5 +1,8 @@
 <list>
-	<description>Running, debugging Java code</description>
+	<description><![CDATA[
+	Running, debugging
+	Java code
+	]]></description>
 
 	<plugin id="consulo.java"/>
 	<plugin id="org.intellij.groovy"/>

@@ -1,5 +1,8 @@
 <list>
-	<description>Running, debugging C# code</description>
+	<description><![CDATA[
+	Running, debugging
+	C# code
+	]]></description>
 
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
