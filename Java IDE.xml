@@ -1,23 +1,25 @@
-<list description="Running, debugging Java code">
-  <plugin id="consulo.java" />
-  <plugin id="org.intellij.groovy" />
-  <plugin id="com.intellij.git" />
-  <plugin id="org.jetbrains.plugins.github" />
-  <plugin id="org.jetbrains.idea.maven" />
-  <plugin id="consulo.apache.ant" />
-  <plugin id="com.intellij.xml" />
-  <plugin id="com.intellij.regexp" />
-  <plugin id="org.intellij.intelliLang" />
-  <plugin id="com.intellij.tasks" />
-  <plugin id="com.intellij.spellchecker" />
-  <plugin id="com.intellij.junit" />
-  <plugin id="consulo.testng" />
-  <plugin id="com.intellij.velocity" />
-  <plugin id="org.jetbrains.plugins.gradle" />
-  <plugin id="com.intellij.properties" />
-  <plugin id="com.intellij.images" />
+<list>
+	<description>Running, debugging Java code</description>
 
-  <plugin id="consulo.library.batik" />
-  <plugin id="consulo.library.flexmark" />
+	<plugin id="consulo.java"/>
+	<plugin id="org.intellij.groovy"/>
+	<plugin id="com.intellij.git"/>
+	<plugin id="org.jetbrains.plugins.github"/>
+	<plugin id="org.jetbrains.idea.maven"/>
+	<plugin id="consulo.apache.ant"/>
+	<plugin id="com.intellij.xml"/>
+	<plugin id="com.intellij.regexp"/>
+	<plugin id="org.intellij.intelliLang"/>
+	<plugin id="com.intellij.tasks"/>
+	<plugin id="com.intellij.spellchecker"/>
+	<plugin id="com.intellij.junit"/>
+	<plugin id="consulo.testng"/>
+	<plugin id="com.intellij.velocity"/>
+	<plugin id="org.jetbrains.plugins.gradle"/>
+	<plugin id="com.intellij.properties"/>
+	<plugin id="com.intellij.images"/>
+
+	<plugin id="consulo.library.batik"/>
+	<plugin id="consulo.library.flexmark"/>
 </list>
 

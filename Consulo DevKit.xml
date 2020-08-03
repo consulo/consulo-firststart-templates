@@ -1,4 +1,10 @@
-<list description="Running, debugging Consulo in sandbox">
+<list>
+	<description>
+		<![CDATA[
+		Running, debugging Consulo
+		in sandbox
+		]]>
+	</description>
 	<plugin id="consulo.java"/>
 	<plugin id="consulo.javaee"/>
 	<plugin id="org.intellij.groovy"/>

@@ -1,22 +1,24 @@
-<list description="Running, debugging C# code">
-  <plugin id="com.intellij.git" />
-  <plugin id="org.jetbrains.plugins.github" />
-  <plugin id="com.intellij.xml" />
-  <plugin id="com.intellij.regexp" />
-  <plugin id="com.intellij.tasks" />
-  <plugin id="com.intellij.spellchecker" />
-  <plugin id="com.intellij.properties" />
-  <plugin id="com.intellij.images" />
+<list>
+	<description>Running, debugging C# code</description>
 
-  <plugin id="consulo.csharp" />
-  <plugin id="consulo.dotnet" />
-  <plugin id="consulo.dotnet.mono" />
-  <plugin id="consulo.dotnet.microsoft" />
-  <plugin id="consulo.msbuild" />
-  <plugin id="consulo.nunit" />
-  <plugin id="consulo.nuget" />
-  <plugin id="consulo.opencover" />
-  
-  <plugin id="consulo.library.batik" />
-  <plugin id="consulo.library.flexmark" />
+	<plugin id="com.intellij.git"/>
+	<plugin id="org.jetbrains.plugins.github"/>
+	<plugin id="com.intellij.xml"/>
+	<plugin id="com.intellij.regexp"/>
+	<plugin id="com.intellij.tasks"/>
+	<plugin id="com.intellij.spellchecker"/>
+	<plugin id="com.intellij.properties"/>
+	<plugin id="com.intellij.images"/>
+
+	<plugin id="consulo.csharp"/>
+	<plugin id="consulo.dotnet"/>
+	<plugin id="consulo.dotnet.mono"/>
+	<plugin id="consulo.dotnet.microsoft"/>
+	<plugin id="consulo.msbuild"/>
+	<plugin id="consulo.nunit"/>
+	<plugin id="consulo.nuget"/>
+	<plugin id="consulo.opencover"/>
+
+	<plugin id="consulo.library.batik"/>
+	<plugin id="consulo.library.flexmark"/>
 </list>
