@@ -1,4 +1,4 @@
-<list>
+<list description="Running, debugging Consulo in sandbox">
 	<plugin id="consulo.java"/>
 	<plugin id="consulo.javaee"/>
 	<plugin id="org.intellij.groovy"/>

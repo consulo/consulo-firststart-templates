@@ -1,4 +1,4 @@
-<list>
+<list description="Debugging C# Unity code">
   <plugin id="com.intellij.git" />
   <plugin id="org.jetbrains.plugins.github" />
   <plugin id="com.intellij.xml" />

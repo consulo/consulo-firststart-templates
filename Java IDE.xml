@@ -1,4 +1,4 @@
-<list>
+<list description="Running, debugging Java code">
   <plugin id="consulo.java" />
   <plugin id="org.intellij.groovy" />
   <plugin id="com.intellij.git" />
