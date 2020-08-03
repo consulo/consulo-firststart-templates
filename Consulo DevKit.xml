@@ -1,8 +1,8 @@
 <list>
 	<description>
 		<![CDATA[
-		Running, debugging Consulo
-		in sandbox
+		Running, debugging
+		Consulo in sandbox
 		]]>
 	</description>
 	<plugin id="consulo.java"/>
