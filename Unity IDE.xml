@@ -1,5 +1,8 @@
 <list>
-	<description>Debugging C# Unity code</description>
+	<description><![CDATA[
+	Debugging C# code
+	inside UnityEditor
+	]]></description>
 
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
