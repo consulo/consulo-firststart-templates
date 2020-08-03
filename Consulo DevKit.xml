@@ -23,7 +23,6 @@
 	<plugin id="com.intellij.uiDesigner"/>
 	<plugin id="consulo.jflex"/>
 	<plugin id="com.intellij.gwt"/>
-	<plugin id="org.jetbrains.idea.grammar"/>
 	<plugin id="consulo.devkit"/>
 	
   	<plugin id="consulo.library.batik" />
