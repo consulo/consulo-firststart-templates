@@ -10,6 +10,7 @@
 	<plugin id="org.intellij.groovy"/>
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
+	<plugin id="org.jetbrains.plugins.yaml"/>
 	<plugin id="com.intellij.xml"/>
 	<plugin id="com.intellij.regexp"/>
 	<plugin id="org.intellij.intelliLang"/>
