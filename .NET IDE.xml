@@ -17,6 +17,7 @@
 	<plugin id="consulo.dotnet"/>
 	<plugin id="consulo.dotnet.mono"/>
 	<plugin id="consulo.dotnet.microsoft"/>
+	<plugin id="consulo.dotnet.core"/>
 	<plugin id="consulo.msbuild"/>
 	<plugin id="consulo.nunit"/>
 	<plugin id="consulo.nuget"/>
