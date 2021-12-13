@@ -12,7 +12,6 @@
 	<plugin id="consulo.apache.ant"/>
 	<plugin id="com.intellij.xml"/>
 	<plugin id="com.intellij.regexp"/>
-	<plugin id="org.intellij.intelliLang"/>
 	<plugin id="com.intellij.tasks"/>
 	<plugin id="com.intellij.spellchecker"/>
 	<plugin id="com.intellij.junit"/>
