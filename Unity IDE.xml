@@ -20,6 +20,7 @@
 	<plugin id="consulo.nunit"/>
 	<plugin id="consulo.nuget"/>
 	<plugin id="consulo.javascript"/>
+	<plugin id="consulo.fontviewer"/>
 	<plugin id="org.jetbrains.plugins.yaml"/>
 
 	<plugin id="consulo.library.batik"/>
