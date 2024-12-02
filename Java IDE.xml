@@ -5,7 +5,6 @@
 	]]></description>
 
 	<plugin id="consulo.java"/>
-	<plugin id="org.intellij.groovy"/>
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
 	<plugin id="org.jetbrains.idea.maven"/>
