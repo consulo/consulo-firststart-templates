@@ -9,7 +9,6 @@
 	<plugin id="com.intellij.git"/>
 	<plugin id="org.jetbrains.plugins.github"/>
 	<plugin id="org.jetbrains.idea.maven"/>
-	<plugin id="consulo.apache.ant"/>
 	<plugin id="com.intellij.xml"/>
 	<plugin id="com.intellij.regexp"/>
 	<plugin id="com.intellij.tasks"/>
