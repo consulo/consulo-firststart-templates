@@ -17,6 +17,8 @@
 	<plugin id="consulo.dotnet"/>
 	<plugin id="consulo.dotnet.mono"/>
 	<plugin id="consulo.unity3d"/>
+	<plugin id="consulo.game.framework"/>
+	<plugin id="consulo.audio" />
 	<plugin id="consulo.nunit"/>
 	<plugin id="consulo.nuget"/>
 	<plugin id="consulo.javascript"/>
